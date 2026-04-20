@@ -1,6 +1,6 @@
 # OllamaDetails
 
-powershell
+powershell to install Ollama
 
 irm https://ollama.com/install.ps1 | iex
 
